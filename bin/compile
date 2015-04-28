@@ -3,7 +3,7 @@
 
 set -e
 
-GETTEXT_TARBALL=https://s3-eu-west-1.amazonaws.com/midgard-heroku/gettext.tar.gz
+GETTEXT_TARBALL=https://ftp.gnu.org/gnu/gettext/gettext-latest.tar.gz
 TARGET_DIR=$HOME
 BUILD_DIR=$1
 CACHE_DIR=$2
